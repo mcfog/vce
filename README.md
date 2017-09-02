@@ -1,6 +1,8 @@
 Vanilla Component Essentials
 ============================
 
+[![npm version](https://badge.fury.io/js/vce.svg)](https://www.npmjs.com/package/vce)
+
 A simple component framework for vanilla js
 
 - extremely lightweight without any external dependencies

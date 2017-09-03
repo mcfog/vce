@@ -7,8 +7,8 @@ A simple component framework for vanilla js
 
 - extremely lightweight without any external dependencies
 
-    < 2k after gzip  
-    < 200LOC
+    ~2k after gzip  
+    ~200 LOC
 
 - sub-component
 - custom event
@@ -17,7 +17,7 @@ A simple component framework for vanilla js
 
 - [ ] test
 - [ ] documentations
-- [ ] todomvc
+- [x] todomvc
 
 ### Why?
 

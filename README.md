@@ -30,6 +30,7 @@ include polyfill for ms browsers should be enough
 below features are covered by <https://polyfill.io/>
 
 + Promise
++ Symbol
 + Element.prototype.closest
 + Node.prototype.contains
 

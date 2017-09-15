@@ -22,4 +22,9 @@ module.exports = {
       }, // end babel-loader
     ], // rules
   }, // module
+  resolve: {
+    alias: {
+      vce: path.resolve(__dirname),
+    },
+  },
 };

@@ -1,6 +1,6 @@
 {
   "name": "vce",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Vanilla Component Essentials",
   "main": "dist/vce.min.js",
   "repository": "https://github.com/mcfog/vce",
